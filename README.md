@@ -1,5 +1,38 @@
 # 💫 About Me:
- Software Developer | Python & Flask<br> Building AI Voice Assistant "Ghost"<br> Backend Development | MySQL | APIs<br> Learning Full Stack Development<br> Open Source & Real-world Projects
+# Hi, I'm Abhijit Kumar Singh
+
+### B.Tech Computer Science & Engineering Student | Aspiring Software Developer
+
+I'm a CSE student at GNIOT, passionate about software development, backend technologies, and problem-solving.
+
+### Technical Skills
+
+- **Languages:** C, C++, Python, Java
+- **Web Technologies:** HTML, CSS
+- **Backend:** Python, Flask, REST APIs
+- **Database:** MySQL
+- **Core Concepts:** Data Structures & Algorithms, OOP
+- **Tools:** Git, GitHub, VS Code
+
+### Projects
+
+- **Complaint Management System** — Python, Flask, MySQL
+- **CONSTA** — Collaborative Study & Personal Growth Platform
+
+### Currently Learning
+
+- Data Structures & Algorithms with Java
+- Backend Development
+- Full Stack Development
+- Software Engineering
+
+### Career Objective
+
+To become a skilled Software Developer and build practical, scalable software solutions.
+
+### Connect With Me
+
+- GitHub: https://github.com/abhijitkumarsingh-tech
 
 
 # 💻 Tech Stack:
